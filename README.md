@@ -1,7 +1,9 @@
 ## Hi 👋, I'm Charles Caspar
 
 A data scientist with experience in product and marketing.
+<br><br>
 Lets work together to optimize your business!
+<br><br>
 I'm available for hire for consulting and full time roles.
 <!--
 **ccaspar/ccaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
